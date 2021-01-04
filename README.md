@@ -21,3 +21,7 @@ Enviromental impact by batteries
 Innovation leads problems: Samsung's case e- exploding batteries
 Energy density slooowly increasing
 Big heavy relative circuits - RFID smallerd
+
+
+Battery-less Internet of Things –A Survey reasearchGate https://www.researchgate.net/publication/342508205_Battery-less_Internet_of_Things_-A_Survey
+This file is added - 4th January 2021
