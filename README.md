@@ -28,5 +28,6 @@ This file is added - 4th January 2021
 
 
 Intrigued by e-peas-Sequans solution to batteryless IoT. Added the datasheet of their SC device.
+https://e-peas.com/types/energy-harvesting/
 
-Link: https://www.allaboutcircuits.com/news/e-peas-sequans-collaborate-make-battery-less-iot-sustainable-reality/
+Original source Link: https://www.allaboutcircuits.com/news/e-peas-sequans-collaborate-make-battery-less-iot-sustainable-reality/
