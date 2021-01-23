@@ -25,3 +25,8 @@ Big heavy relative circuits - RFID smallerd
 
 Battery-less Internet of Things –A Survey reasearchGate https://www.researchgate.net/publication/342508205_Battery-less_Internet_of_Things_-A_Survey
 This file is added - 4th January 2021
+
+
+Intrigued by e-peas-Sequans solution to batteryless IoT. Added the datasheet of their SC device.
+
+Link: https://www.allaboutcircuits.com/news/e-peas-sequans-collaborate-make-battery-less-iot-sustainable-reality/
